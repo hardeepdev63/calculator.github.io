@@ -1,0 +1,41 @@
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+
+  .grey 
+  {
+    background: gainsboro;
+  }
+
+  
+  .orange
+  {
+    background: rgb(215, 140, 0);
+    color: white;
+    
+  }
+  
+  .black
+  {
+    background: rgb(68, 63, 63);
+    color: white;
+  }
